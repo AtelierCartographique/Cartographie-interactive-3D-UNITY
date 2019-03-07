@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb2fea97c600c46f087291aa58b4b793
+timeCreated: 1526228353
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Akkurat Light Pro
+  fontNames:
+  - Akkurat Light Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

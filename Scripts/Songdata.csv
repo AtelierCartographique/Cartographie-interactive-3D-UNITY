@@ -1,0 +1,14 @@
+lieu,lat,lng,description,fichier
+Paris,48.8566,2.3522,1,01 - Spring 0
+Marseille,43.2965,5.3698,1,02 - Spring 1
+Londres,51.5074,-0.1278,1,03 - Spring 2
+New_York,40.7128,-74.0060,1,04 - Spring 3
+Bergen,60.3913,5.3221,1,05 - Summer 1
+Montreal,45.5017,-73.5673,1,06 - Summer 2
+Moscou,55.7558, 37.6173,1,07 - Summer 3
+Tokyo,35.6895,139.6917,1,08 - Autumn 1
+Adelaide,-34.9285,138.6007,1,09 - Autumn 2
+La_Paz,-16.4897,-68.1193,1,10 - Autumn 3
+Buenos_Aires,-34.6037,-58.3816,1,11 - Winter 1
+San_Fransisco,37.7749,-122.4194,1,12 - Winter 2
+Vancouver,49.2827,-123.1207,1,13 - Winter 3
